@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zainabaltahoo
 - 👀 I’m interested in cooking
 - 🌱 I’m currently learning programming 2
-- 💞️ I’m looking to collaborate on make a different change the world 
+- 💞️ I’m looking to collaborate on make a different change the world .
 - 📫 How to reach me ...zaianb_i1999@hotmail.com
 
 <!---
